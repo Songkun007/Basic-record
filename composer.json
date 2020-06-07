@@ -1,0 +1,6 @@
+{
+	"name": "base_record/log",
+	"require":{
+		"monolog/monolog":"1.2.*"
+	}
+}
